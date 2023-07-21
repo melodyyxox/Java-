@@ -1,0 +1,7 @@
+  public static void main(String[] args) {
+   
+
+    byte sayi =  (byte)128;
+     System.out.println(sayi);
+  }
+}
